@@ -14,3 +14,12 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
+.widget_circleicon-widget .circle-icon-box .circle-icon{
+	height: 80px;
+	width: 80px;
+}
+
+.widget_circleicon-widget .circle-icon-box h4{
+	padding-top: 10px;
+}
