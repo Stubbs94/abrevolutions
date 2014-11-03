@@ -2,7 +2,7 @@
 .htaccess
 xmlrpc.php
 blogs.dir/
-upgrade/
+content/upgrade/
 sitemap.xml
 sitemap.xml.gz
 uploads/
