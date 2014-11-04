@@ -23,3 +23,12 @@
 .widget_circleicon-widget .circle-icon-box h4{
 	padding-top: 10px;
 }
+
+.entry-content blockquote{
+	border-left: none;
+}
+
+.metaslider .metaslider-flex .metaslider-61 .ml-slider .nav-hidden{
+	margin-left: auto;
+	margin-right: auto;
+}
